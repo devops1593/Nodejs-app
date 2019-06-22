@@ -11,7 +11,8 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>  
       </header> */}
-    <h1 style="center"> Hello World </h1>
+     <center><h1> Hello World </h1></center>
+   
     </div>
   );
 }
